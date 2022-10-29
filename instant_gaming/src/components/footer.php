@@ -1,0 +1,1 @@
+<footer>@2022 Instant Gaming</footer>

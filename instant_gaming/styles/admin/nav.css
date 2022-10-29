@@ -1,0 +1,25 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(48, 48, 48);
+    width: 100vw;
+    height: 50px;
+}
+
+.logo_crud{
+    width: 30%;
+}
+
+.crudLogo{
+    width: 20%;
+    height: 100%;
+    display: flex;
+    margin-bottom: 10px;
+    transform: scale(2.5);
+    /* filter: invert(100%); */
+}
+
+
+.nav_search{
+    width: 40%;
+}

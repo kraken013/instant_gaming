@@ -1,0 +1,10 @@
+.menu-crud{
+    display: flex;
+    position: fixed;
+    top: 0;
+    justify-content: space-between;
+    width: 100%;
+    height:6vh;
+    margin: 0;
+    background-color: black;
+}

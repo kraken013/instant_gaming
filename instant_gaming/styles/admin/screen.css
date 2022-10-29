@@ -1,0 +1,11 @@
+.screen-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: 5vh;
+    background-color: rgb(202, 196, 193);
+    font-size: 1.2em;
+    margin-top: 2vh;
+    border-radius: 10px;
+}
